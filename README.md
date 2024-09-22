@@ -6,6 +6,8 @@ Welcome to the first installment of our AWS IAM (Identity and Access Management)
 ## Overview of Part 1
 In this opening video, we embark on the journey of understanding AWS IAM by focusing on two fundamental concepts: users and user groups. We'll explore how to effectively create user groups and users within AWS, providing practical examples and insights into best practices for IAM management.
 
+[![Watch the video](https://github.com/KLavallais/KLavallais/blob/main/images/AWS%20Series%20Part%201.png))](http://www.youtube.com/watch?v=pXALTU34eMg)
+
 ### Key Highlights:
 - **User Groups Creation**: We start by creating user groups, essential for organizing users according to their roles and access needs. For instance, we demonstrate creating an 'Admins' group and adding a user to this group.
 - **Assigning Permissions**: Next, we delve into assigning specific AWS service permissions to these groups, such as S3 full access, DynamoDB full access, and Lambda full access, ensuring that members of each group have the necessary permissions to perform their roles.
@@ -15,6 +17,6 @@ In this opening video, we embark on the journey of understanding AWS IAM by focu
 ## Sneak Peek into Part 2
 Stay tuned for Part 2, where we will dive deeper into permissions and roles within AWS IAM. We'll explore the creation of more user groups, the assignment of more granular permissions, and the intricacies of IAM roles. Part 2 promises to provide further insights into navigating the AWS IAM console and leveraging IAM for effective cloud resource management.
 
-[![Watch the video](http://img.youtube.com/vi/T4gSNeDf2aM/0.jpg)](http://www.youtube.com/watch?v=pXALTU34eMg)
+
 
 Thank you for joining Part 1 of our AWS IAM tutorial series. We hope this session has provided you with a solid foundation in managing users and user groups within AWS IAM. See you in Part 2 for more insights and guidance on leveraging AWS IAM to its full potential. Have a great day!
