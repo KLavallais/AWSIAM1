@@ -6,7 +6,7 @@ Welcome to the first installment of our AWS IAM (Identity and Access Management)
 ## Overview of Part 1
 In this opening video, we embark on the journey of understanding AWS IAM by focusing on two fundamental concepts: users and user groups. We'll explore how to effectively create user groups and users within AWS, providing practical examples and insights into best practices for IAM management.
 
-[![Watch the video](https://github.com/KLavallais/KLavallais/blob/main/images/AWS%20Series%20Part%201.png))](http://www.youtube.com/watch?v=pXALTU34eMg)
+[![Watch the video](https://github.com/KLavallais/KLavallais/blob/assets/AWS%20Series%20Part%201.png))](http://www.youtube.com/watch?v=pXALTU34eMg)
 
 ### Key Highlights:
 - **User Groups Creation**: We start by creating user groups, essential for organizing users according to their roles and access needs. For instance, we demonstrate creating an 'Admins' group and adding a user to this group.
