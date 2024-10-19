@@ -1,5 +1,6 @@
 # AWS IAM Part 1
 # AWS IAM Walkthrough Series: Users and User Groups (Part 1)
+![AWS Banner](https://github.com/KLavallais/KLavallais/blob/assets/aws-banner.png?raw=true)
 
 Welcome to the first installment of our AWS IAM (Identity and Access Management) tutorial series. This series is designed to provide a comprehensive overview of AWS IAM, focusing on the creation and management of users, user groups, permissions, and roles. Our goal is to keep these tutorials concise, short, and sweet, making them perfect for learners of all levels.
 
